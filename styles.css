@@ -1,0 +1,50 @@
+*{
+  font-family: Verdana, sans-serif;
+}
+body{
+  background-color: lightgray;
+  padding: 20px;
+  
+}
+#header{
+  text-align: center;
+}
+#title{
+  margin: 0 auto;
+  text-align: center;
+}
+#image{
+  display: block;
+  height: auto;
+  width:100%;
+  max-width:100%;
+}
+#unordered-list{
+  padding-left: 15px;
+}
+#img-div{
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.small{
+  font-size: 0.9em;
+}
+#caption{
+  padding:20px;
+  margin-top: 10px auto;
+  text-align: justify;
+}
+footer{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.bold{
+  font-weight: 800;
+}
